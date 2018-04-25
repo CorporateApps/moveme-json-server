@@ -1,0 +1,328 @@
+{
+  "users": [
+    {
+      "id": "8c450876-19f8-451b-97e6-8a66f540e865",
+      "first_name": "Jany",
+      "last_name": "Krollmann",
+      "email": "jkrollmann0@cocolog-nifty.com",
+      "username": "jkrollmann0",
+      "password": "8YPtBhNW",
+      "age": 31
+    },
+    {
+      "id": "9ff0fcd2-928b-41cf-836a-6640c2b9895e",
+      "first_name": "Ferrel",
+      "last_name": "Jovey",
+      "email": "fjovey1@statcounter.com",
+      "username": "fjovey1",
+      "password": "j1xe5tF",
+      "age": 30
+    },
+    {
+      "id": "755dc909-da8e-43af-b1b1-fb7ae793d3b3",
+      "first_name": "Candida",
+      "last_name": "Jays",
+      "email": "cjays2@ted.com",
+      "username": "cjays2",
+      "password": "y545jjXcmPB",
+      "age": 20
+    },
+    {
+      "id": "2a78c32c-1378-4bb0-aa14-23bc40b9ee8f",
+      "first_name": "Davy",
+      "last_name": "Laycock",
+      "email": "dlaycock3@theglobeandmail.com",
+      "username": "dlaycock3",
+      "password": "9I9PrA6jh7",
+      "age": 27
+    },
+    {
+      "id": "4fb85a2d-19e1-4404-a830-930804ae692d",
+      "first_name": "Karola",
+      "last_name": "Phayre",
+      "email": "kphayre4@youtube.com",
+      "username": "kphayre4",
+      "password": "IanJswZah",
+      "age": 20
+    },
+    {
+      "id": "da57fef1-bfbd-433c-a8e1-b644fae979bb",
+      "first_name": "Trudi",
+      "last_name": "Artindale",
+      "email": "tartindale5@furl.net",
+      "username": "tartindale5",
+      "password": "nfe96sFW",
+      "age": 25
+    },
+    {
+      "id": "987031a4-21c2-4e94-894a-8452f65c3246",
+      "first_name": "Oneida",
+      "last_name": "Martonfi",
+      "email": "omartonfi6@unc.edu",
+      "username": "omartonfi6",
+      "password": "3LzUKM",
+      "age": 36
+    },
+    {
+      "id": "ae3965f1-a36b-4aca-a5d0-758c38f9259f",
+      "first_name": "Cello",
+      "last_name": "Avrahamov",
+      "email": "cavrahamov7@npr.org",
+      "username": "cavrahamov7",
+      "password": "7tcVRgvq3",
+      "age": 27
+    },
+    {
+      "id": "6516d248-fd67-4f72-bb24-c28a1dda826c",
+      "first_name": "Jeannie",
+      "last_name": "Willingale",
+      "email": "jwillingale8@goo.gl",
+      "username": "jwillingale8",
+      "password": "ZIbIviUE9IZ",
+      "age": 32
+    },
+    {
+      "id": "6ab5fb92-e247-4886-b206-78633ddd2c29",
+      "first_name": "Angil",
+      "last_name": "Paulino",
+      "email": "apaulino9@wikimedia.org",
+      "username": "apaulino9",
+      "password": "ntu8jsK",
+      "age": 36
+    },
+    {
+      "id": "c8631554-5460-4157-bdde-579a7209d0a9",
+      "first_name": "Melany",
+      "last_name": "Sterrick",
+      "email": "msterricka@ucsd.edu",
+      "username": "msterricka",
+      "password": "F2yBKOJaE",
+      "age": 37
+    },
+    {
+      "id": "428983e5-0915-4576-9ca2-f2f347f4b4ce",
+      "first_name": "Inness",
+      "last_name": "Motten",
+      "email": "imottenb@elpais.com",
+      "username": "imottenb",
+      "password": "qPXAv36",
+      "age": 30
+    },
+    {
+      "id": "68ffe9b9-5484-4604-87c4-c11f09530ed6",
+      "first_name": "Marjy",
+      "last_name": "Duddan",
+      "email": "mduddanc@goo.gl",
+      "username": "mduddanc",
+      "password": "SAXHhk3LW",
+      "age": 29
+    },
+    {
+      "id": "f64567ad-bea5-4d67-8050-e13fea0b6490",
+      "first_name": "Rayshell",
+      "last_name": "Redihalgh",
+      "email": "rredihalghd@printfriendly.com",
+      "username": "rredihalghd",
+      "password": "1Yzn4Hq",
+      "age": 17
+    },
+    {
+      "id": "6b0c8ac1-704f-4bd0-a73d-83db51d86e0e",
+      "first_name": "Friederike",
+      "last_name": "Walklate",
+      "email": "fwalklatee@list-manage.com",
+      "username": "fwalklatee",
+      "password": "j6KMF1ZZQY7",
+      "age": 32
+    },
+    {
+      "id": "1118760f-98b7-45d1-a17f-4e8ec45a4771",
+      "first_name": "Zitella",
+      "last_name": "Adrianello",
+      "email": "zadrianellof@ed.gov",
+      "username": "zadrianellof",
+      "password": "fpnzxndR",
+      "age": 41
+    },
+    {
+      "id": "16442b23-3a1b-402a-9710-61560f740341",
+      "first_name": "Gael",
+      "last_name": "Chalk",
+      "email": "gchalkg@vinaora.com",
+      "username": "gchalkg",
+      "password": "YStQsCq6eLN",
+      "age": 41
+    },
+    {
+      "id": "9b639204-16f4-46ef-b81a-cf5e3f24404c",
+      "first_name": "Deeanne",
+      "last_name": "Waymont",
+      "email": "dwaymonth@amazon.co.jp",
+      "username": "dwaymonth",
+      "password": "WSrLH9",
+      "age": 19
+    },
+    {
+      "id": "b64024a4-08d2-49ad-bfb2-4acaf1649d33",
+      "first_name": "Emlynn",
+      "last_name": "Bellelli",
+      "email": "ebellellii@marketwatch.com",
+      "username": "ebellellii",
+      "password": "tYCLmK",
+      "age": 28
+    },
+    {
+      "id": "780b7214-c9b6-4428-a316-23fd2a47538d",
+      "first_name": "Felice",
+      "last_name": "Baldi",
+      "email": "fbaldij@deliciousdays.com",
+      "username": "fbaldij",
+      "password": "KUFpYPLz",
+      "age": 26
+    }
+  ],
+  "classes": [
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb01",
+      "level": 1,
+      "date": "07/02/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb02",
+      "level": 1,
+      "date": "07/02/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb03",
+      "level": 1,
+      "date": "07/09/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb04",
+      "level": 1,
+      "date": "07/16/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb05",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "level": 1,
+      "date": "07/23/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb06",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "level": 1,
+      "date": "07/30/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bb07",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "level": 1,
+      "date": "08/06/2018",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc01",
+      "level": 3,
+      "date": "07/02/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc02",
+      "level": 3,
+      "date": "07/02/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc03",
+      "level": 3,
+      "date": "07/09/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc04",
+      "level": 3,
+      "date": "07/16/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc05",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "level": 3,
+      "date": "07/23/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc06",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "level": 3,
+      "date": "07/30/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    },
+    {
+      "id": "7247f968-63a3-42a5-9bdc-4b369734bc07",
+      "courseId": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "level": 3,
+      "date": "08/06/2018",
+      "start_time": "20:30",
+      "end_time": "21:25",
+      "type": "group"
+    }
+  ],
+  "courses": [
+    {
+      "id": "68ffe9b9-5484-4604-87c4-c11f09525ed5",
+      "description": "Beginners, monday mornings, summer 2018",
+      "type": "group",
+      "slots": 8,
+      "cost": 10
+    },
+    {
+      "id": "68ffe9b9-5484-4604-87c4-c11f09535ed5",
+      "description": "Advanced, monday evenings, summer 2018",
+      "type": "group",
+      "slots": 8,
+      "cost": 10
+    }
+  ]
+}
